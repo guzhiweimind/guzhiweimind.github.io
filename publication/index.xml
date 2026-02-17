@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Zhiwei Gu (顾知巍)</title>
+    <link>https://guzhiweimind.github.io/publication/</link>
+    <description>Recent content in Publications on Zhiwei Gu (顾知巍)</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://guzhiweimind.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Wittgensteinian Critique of the Orthodox Truthmaker Theory</title>
+      <link>https://guzhiweimind.github.io/publication/ratio-2025/</link>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://guzhiweimind.github.io/publication/ratio-2025/</guid>
+      <description>A critique of truthmaker theory from a Wittgensteinian perspective.</description>
+    </item>
+    <item>
+      <title>The Invalidity of the Argument from Illusion</title>
+      <link>https://guzhiweimind.github.io/publication/acta-analytica-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://guzhiweimind.github.io/publication/acta-analytica-2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Time-Lag Argument and Simultaneity</title>
+      <link>https://guzhiweimind.github.io/publication/time-lag/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://guzhiweimind.github.io/publication/time-lag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Wittgensteinian Critique of the Orthodox Truthmaker Theory</title>
+      <link>https://guzhiweimind.github.io/publication/philosophia-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://guzhiweimind.github.io/publication/philosophia-2022/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
